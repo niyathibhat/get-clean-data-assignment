@@ -1,5 +1,4 @@
 ## Variable details
-## ================
 
 * Subject_ID: An integer from 1-30 denoting the ID of subjects participating in the study.
 * Activity: Denotes the activity performed by the subject (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
